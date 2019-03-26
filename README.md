@@ -1,2 +1,1 @@
-# mytest
-To gain knowledge
+# exploreGit
